@@ -8,7 +8,7 @@ The Dataset was obtained from kaggle and can be found [here](https://www.kaggle.
 
 
 # Model Results 
-After training our model has reached 83.33% validation accuracy and 0.279% validation loss. The plots can be observed below.
+After training our model has reached 86% validation accuracy and 0.279% validation loss. The plots can be observed below.
 
 
 ## Model Accuracy
